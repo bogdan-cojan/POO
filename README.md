@@ -1,2 +1,2 @@
 # POO
-Programare Orientata pe Obiecte
+Programare Orientata pe Obiecte - Proiect Final
